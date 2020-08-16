@@ -1,4 +1,4 @@
-**RGB ≡ Red, Green, Blue**
+## RGB ≡ Red, Green, Blue
 RGB color system constructs all the colors from the combination of the Red, Green and Blue colors. <br/>
 The red, green and blue use 8 bits each, which have integer values from 0 to 255. This makes 256*256*256=16777216 possible colors.<br/>
 <br/>
