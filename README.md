@@ -14,4 +14,9 @@ Sky Blue (135,206,235) <br/>
 ## RGB-Color-Guess-Game
 Brush up your RGB skills by selecting the most appropriate color square according to the RGB color code given in the header. 
 
+### Levels
+There are two levels: <br/>
+1. Easy: Choose out of 3 color squares <br/>
+2. Hard: Choose out of 6 color squares <br/>
+
 ![RGB_Color_Guess](/ss.png)
