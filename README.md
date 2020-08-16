@@ -16,7 +16,7 @@ Brush up your RGB skills by selecting the most appropriate color square accordin
 
 ### Levels
 There are two levels: <br/>
-1. Easy: Choose out of 3 color squares <br/>
-2. Hard: Choose out of 6 color squares <br/>
+1. **Easy**: Choose out of 3 color squares <br/>
+2. **Hard**: Choose out of 6 color squares <br/>
 
 ![RGB_Color_Guess](/ss.png)
