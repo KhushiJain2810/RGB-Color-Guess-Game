@@ -19,4 +19,5 @@ There are two levels: <br/>
 1. **Easy**: Choose out of 3 color squares <br/>
 2. **Hard**: Choose out of 6 color squares <br/>
 
-![RGB_Color_Guess](/ss.png)
+![RGB_Color_Guess_Easy](/ss2.png)
+![RGB_Color_Guess_Hard](/ss.png)
