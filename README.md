@@ -12,6 +12,6 @@ Crimson (220,20,60) <br/>
 Sky Blue (135,206,235) <br/>
 
 ## RGB-Color-Guess-Game
-Select the most appropriate color square according to the RGB color code given in the header. 
+Brush up your RGB skills by selecting the most appropriate color square according to the RGB color code given in the header. 
 
 ![RGB_Color_Guess](/ss.png)
